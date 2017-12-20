@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name         = "CutPod"
+s.name         = "CutDemo"
 s.version      = "1.0.0"
 s.summary      = "CutPod."
 s.homepage     = "https://github.com/diankuanghuolong/CutPod"
